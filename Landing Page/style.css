@@ -1,1 +1,10 @@
-
+body{
+    background-color: #22577a;
+}
+.navBar{
+    height: 100px;
+    width: 100%;
+    background-color: #c7f9cc;
+    position: fixed;
+    margin: auto;
+}
